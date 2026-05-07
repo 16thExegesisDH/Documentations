@@ -8,7 +8,7 @@ This repository includes the project documentation, notebooks, and scripts.
 | 📄 Documents | [Project working process (April 2025)](./Projet_wk.pdf) |
 | 📄 Documents | [Project Results (March 2026)](./Presentation_DHday.pdf) |
 | 📰 Article | Digital Architecture — *Humanistica* (link ) |
-| 💻 Notebooks | Distant Reading · Lemmatization · LatinCy · Cleaning |
+| 💻 Notebooks |Segmentation · Cleaning · Lemmatization (CLTK) · Distant Reading ·  LatinCy   |
 | ⚙️ Script | Data processing | 
 
 
