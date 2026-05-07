@@ -9,7 +9,7 @@ This repository includes the project documentation, notebooks, and scripts.
 | 📄 Documents | [Project Results (March 2026)](./Presentation_DHday.pdf) |
 | 📰 Article | Digital Architecture — *Humanistica* (link ) |
 | 💻 Notebooks |Segmentation · Cleaning · Lemmatization (CLTK) · Distant Reading ·  LatinCy   |
-| ⚙️ Script | Data processing | 
+| ⚙️ Script | Data processing (batch script for HPC cluster) | 
 
 
 
