@@ -10,3 +10,20 @@ This repository includes the project documentation, notebooks, and scripts.
 | 📰 Article | Digital Architecture — *Humanistica* (link ) |
 | 💻 Notebooks | Distant Reading · Lemmatization · LatinCy · Cleaning |
 | ⚙️ Script | Data processing | 
+
+
+```
+## How to cite 
+
+* Repository
+```bibtex
+@misc{Goy_Documentations,
+  author={Floriane Goy},
+  title={Documentations on digital frameworks for Pauline exegesis project},
+  version={1.0},
+  address={Genève},
+  publisher={université de Genève},
+  year={2023-2026},
+  url={https://github.com/16thExegesisDH/Documentations},
+}
+```
