@@ -12,7 +12,6 @@ This repository includes the project documentation, notebooks, and scripts.
 | ⚙️ Script | Data processing | 
 
 
-```
 
 ## How to cite 
 
